@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">인물 등록</string>
+    <string name="app_name2">인물 등록 폼</string>
+    <string name="app_name3">인물 정도</string>
+
+    <string name="action_settings"> 홈</string>
+    <string name="action_settongs2">인물 등록</string>
+</resources>
